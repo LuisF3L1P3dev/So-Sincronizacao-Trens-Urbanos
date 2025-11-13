@@ -1,5 +1,8 @@
 # So-Sincronizacao-Trens-Urbanos
-<img width="644" height="524" alt="image" src="https://github.com/user-attachments/assets/a8c3ef57-515b-4609-8956-8989c187bfd4" />
+
+<div align="center">
+[<img width="644" height="524" alt="image" src="https://github.com/user-attachments/assets/a8c3ef57-515b-4609-8956-8989c187bfd4" />]
+</div>
 
 1. Em grupo de 2 alunos, implementem uma solucão para sincronizacão de trens urbanos. A
 solucão deve utilizar as seguintes ferramentas: Sockets, Threads e Semaforos.
